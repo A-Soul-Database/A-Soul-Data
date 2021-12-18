@@ -23,7 +23,8 @@ search.json --- 包含字幕和其他文件信息
 
 <details>
 <summary>index.json 模板</summary>
-<pre><code>
+<pre>
+```
 {
 	"date": "12-11",
 	"time": "20:00",
@@ -74,6 +75,6 @@ search.json --- 包含字幕和其他文件信息
 	"platform": "B",
 	"tags": ["00:01 还记得与她们的初遇吗？","....."]
 }
-</code></pre>
+```</pre>
 </details>
 
