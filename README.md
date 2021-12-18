@@ -23,7 +23,6 @@ Under Construction
 
 <details>
 <summary>index.json 模板</summary>
-<pre>
 ```
 {
 	"date": "12-11",
@@ -75,6 +74,6 @@ Under Construction
 	"platform": "B",
 	"tags": ["00:01 还记得与她们的初遇吗？","....."]
 }
-```</pre>
+```
 </details>
 
