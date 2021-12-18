@@ -23,7 +23,8 @@ Under Construction
 
 <details>
 <summary>index.json 模板</summary>
-```
+
+```json
 {
 	"date": "12-11",
 	"time": "20:00",
