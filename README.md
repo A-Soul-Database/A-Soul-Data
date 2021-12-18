@@ -1,8 +1,5 @@
 # A-Soul-Data A-Soul 直播数据
-# [Gitee 镜像](https://gitee.com/peterpei1186861238/A-Soul-Data) 
-通过GitHub Actions保持同步
-
-# [前端源码及自动化工具请移步](https://github.com/peterpei1186861238/A-Soul-Database)
+[Asdb 运行结构请移步](https://github.com/peterpei1186861238/A-Soul-Database)
 ## 文件结构
 ```
 main.json --- 记录月份或年份的直播归档
@@ -14,8 +11,19 @@ Index.json --- 索引BV号位置
 search.json --- 包含字幕和其他文件信息
 ```
 
-index.json Templates
-```json
+<details>
+<summary>场景一览表</summary>
+
+</details>
+
+<details>
+<summary>服饰一览表</summary>
+
+</details>
+
+<details>
+<summary>index.json 模板</summary>
+<pre><code>
 {
 	"date": "12-11",
 	"time": "20:00",
@@ -66,4 +74,6 @@ index.json Templates
 	"platform": "B",
 	"tags": ["00:01 还记得与她们的初遇吗？","....."]
 }
-```
+</code></pre>
+</details>
+
