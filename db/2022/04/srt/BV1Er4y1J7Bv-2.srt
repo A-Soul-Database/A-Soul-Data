@@ -1,0 +1,27 @@
+0
+00:00:52,600 --> 00:00:54,566
+<font id="" path="C:/Users/ppzzh/AppData/Local/JianyingPro/Apps/2.9.0.8209/RA-SOULurces/Font/SystemFont/zh-hans.ttf"><color=(1.000000, 1.000000, 1.000000, 1.000000)><size=5.000000>除了激情褪去后的</size></color></font>
+
+1
+00:01:26,900 --> 00:01:28,566
+<font id="" path="C:/Users/ppzzh/AppData/Local/JianyingPro/Apps/2.9.0.8209/RA-SOULurces/Font/SystemFont/zh-hans.ttf"><color=(1.000000, 1.000000, 1.000000, 1.000000)><size=5.000000>前走单啦</size></color></font>
+
+2
+00:01:38,100 --> 00:01:42,033
+<font id="" path="C:/Users/ppzzh/AppData/Local/JianyingPro/Apps/2.9.0.8209/RA-SOULurces/Font/SystemFont/zh-hans.ttf"><color=(1.000000, 1.000000, 1.000000, 1.000000)><size=5.000000>到567回</size></color></font>
+
+3
+00:02:28,833 --> 00:02:29,866
+<font id="" path="C:/Users/ppzzh/AppData/Local/JianyingPro/Apps/2.9.0.8209/RA-SOULurces/Font/SystemFont/zh-hans.ttf"><color=(1.000000, 1.000000, 1.000000, 1.000000)><size=5.000000>阴天</size></color></font>
+
+4
+00:02:55,933 --> 00:02:58,366
+<font id="" path="C:/Users/ppzzh/AppData/Local/JianyingPro/Apps/2.9.0.8209/RA-SOULurces/Font/SystemFont/zh-hans.ttf"><color=(1.000000, 1.000000, 1.000000, 1.000000)><size=5.000000>爱的亲爱的生日快乐</size></color></font>
+
+5
+00:02:58,366 --> 00:03:00,233
+<font id="" path="C:/Users/ppzzh/AppData/Local/JianyingPro/Apps/2.9.0.8209/RA-SOULurces/Font/SystemFont/zh-hans.ttf"><color=(1.000000, 1.000000, 1.000000, 1.000000)><size=5.000000>祝你永远幸福</size></color></font>
+
+6
+00:03:00,300 --> 00:03:03,300
+<font id="" path="C:/Users/ppzzh/AppData/Local/JianyingPro/Apps/2.9.0.8209/RA-SOULurces/Font/SystemFont/zh-hans.ttf"><color=(1.000000, 1.000000, 1.000000, 1.000000)><size=5.000000>晚安啦要开心啊嗯要开心哦</size></color></font>
